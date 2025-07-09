@@ -7,7 +7,7 @@ Lost Arcis has been under development for around a year at the time of this demo
 Thank you for trying Lost Arcis! Feedback is much appreicated.
 
 
-Some royalty free resoruces were used for this project. They are listed below:
+Some royalty free resources were used for this project. They are listed below:
 Fire SFX: SoundReality
 https://pixabay.com/sound-effects/fire-sound-334130/ 
 Blowing Out Candle SFX: freesound_community
